@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+
+int m,k,val;
+scanf("%d %d",&m,&k);
+val=m%k;
+printf("%d",val);
+return 0;
+
+}
